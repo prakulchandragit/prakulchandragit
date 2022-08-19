@@ -1,1 +1,1 @@
-![link](https://github-readme-stats.vercel.app/api?username={prakulchandragit}&theme=blue-green)
+![link](https://github-readme-stats.vercel.app/api?username=prakulchandragitheme=blue-green)
